@@ -1,0 +1,25 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumary.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitinics/testCi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitinics/testCi/issues"
+  },
+  "homepage": "https://github.com/jitinics/testCi#readme"
+}
